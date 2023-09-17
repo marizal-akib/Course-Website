@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Python",
+    "cover": "https://i.ibb.co/9ZmNmJG/Learn-Python-for-Beginners.jpg",
+    "description": "Comprehensive introduction to Python programming. Covers syntax, data types, functions, loops, conditionals, and object-oriented programming.",
+    "price": 15000,
+    "creditHour": 3
+  },
+  {
+    "id": 2,
+    "title": "Web Development with JavaScript",
+    "cover": "https://i.ibb.co/7N0YZwZ/javascript-hero-1652702096795.webp",
+    "description": "Fundamentals of web development using JavaScript. Create, manipulate HTML/CSS, handle events, and use libraries/frameworks.",
+    "price": 20000,
+    "creditHour": 4
+  },
+  {
+    "id": 3,
+    "title": "Data Structures and Algorithms",
+    "cover": "https://i.ibb.co/nfmMfBH/data-structures-algorithms.jpg",
+    "description": "Fundamental data structures and algorithms in computer science. Choose structures, implement algorithms, and analyze them.",
+    "price": 25000,
+    "creditHour": 5
+  },
+  {
+    "id": 4,
+    "title": "Machine Learning with Python",
+    "cover": "https://i.ibb.co/Gt89Jgq/Machine-Learningwith-Pythonmin.png",
+    "description": "Basic machine learning with Python. Explore linear regression, logistic regression, decision trees, and support vector machines.",
+    "price": 18000,
+    "creditHour": 4
+  },
+  {
+    "id": 5,
+    "title": "Android App Development with Java",
+    "cover": "https://i.ibb.co/8cK4L3w/d93254f6-cc3d-4772-9380-bf58b222200f-cover.webp",
+    "description": "Fundamentals of Android app development using Java. Create and design Android apps using the Android SDK and Android Studio.",
+    "price": 16000,
+    "creditHour": 3
+  },
+  {
+    "id": 6,
+    "title": "iOS App Development with Swift",
+    "cover": "https://i.ibb.co/G553yLJ/1-HHLLQYZILJriu5-Jh-Gt9-X1g.png",
+    "description": "Fundamentals of iOS app development with Swift. Create and design iOS apps using the Xcode IDE.",
+    "price": 17000,
+    "creditHour": 3
+  },
+  {
+    "id": 7,
+    "title": "Game Development with Unity",
+    "cover": "https://i.ibb.co/F4gyYRh/5-Rarely-Known-Advantages-And-Disadvantages-Of-Unity-Game-Development.jpg",
+    "description": "Basic game development with Unity. Create 2D and 3D games and use the Unity Editor.",
+    "price": 19000,
+    "creditHour": 4
+  },
+  {
+    "id": 8,
+    "title": "Database Design and SQL",
+    "cover": "https://i.ibb.co/r46LfvQ/0c61aa0b-f7c1-4af8-bff8-11b5e5afa6e7-9ff5b06d5db6.webp",
+    "description": "Fundamentals of database design and SQL. Learn about database types, schema design, and SQL query writing.",
+    "price": 18000,
+    "creditHour": 4
+  },
+  {
+    "id": 9,
+    "title": "Version Control with Git",
+    "cover": "https://i.ibb.co/m9HJDkn/learn-version-control-with-git-giveaway-1.png",
+    "description": "Introduction to version control using Git. Understand Git basics and how to manage versioned projects.",
+    "price": 18000,
+    "creditHour": 4
+  }
+]
